@@ -22,6 +22,6 @@ This Power BI dashboard provides insights into sales performance, product trends
 
 Files Included
 - [`dashboard.png`](https://github.com/Junaid30121997/Dashboard-Project/blob/main/Screenshot%202025-07-17%20155708.png) – Screenshot of the dashboard
-- https://github.com/Junaid30121997/Dashboard-Project/blob/main/Screenshot%202025-07-17%20155806.png– Power BI dashboard 
+- (https://github.com/Junaid30121997/Dashboard-Project/blob/main/Screenshot%202025-07-17%20155806.png)– Power BI dashboard 
 
 

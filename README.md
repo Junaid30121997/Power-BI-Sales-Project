@@ -6,9 +6,14 @@ Overview
 This Power BI dashboard provides insights into sales performance, product trends, and revenue patterns. It helps businesses monitor KPIs and make data-driven decisions.
 
  Dashboard Preview
+                                                      Main Dashboard
 ![Dashboard Screenshot](https://github.com/Junaid30121997/Dashboard-Project/blob/main/Screenshot%202025-07-17%20155846.png)
+
+                                                  Same Period Last Year
 ![Dashboard Screenshot](https://github.com/Junaid30121997/Dashboard-Project/blob/main/Screenshot%202025-07-17%20155708.png)
-![Dashboard Screenshot]
+
+                                                        MTD Report
+![Dashboard Screenshot](https://github.com/Junaid30121997/Dashboard-Project/blob/main/Screenshot%202025-07-17%20155806.png)
 
 
 

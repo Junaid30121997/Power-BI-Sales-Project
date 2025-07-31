@@ -1,8 +1,6 @@
-# Power-BI-Project
-Interactive Power BI dashboard for sales performance and product analysis.
-Sales Dashboard | Power BI Project
+#  Sales Dashboard | Power BI Project
 
-Overview
+##  Overview
 This Power BI dashboard provides insights into sales performance, product trends, and revenue patterns. It helps businesses monitor KPIs and make data-driven decisions.
 
  Dashboard Preview
@@ -18,12 +16,12 @@ This Power BI dashboard provides insights into sales performance, product trends
 
 
 
- Tools & Technologies
+ # Tools & Technologies
 - Power BI
 - Excel
 - DAX & Power Query
 
- Key Features
+ # Key Features
 - Region-wise and Category-wise sales visualization
 - Monthly and Yearly trend analysis
 - Top-performing products and low performers

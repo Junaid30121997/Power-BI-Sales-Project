@@ -1,4 +1,4 @@
-Dashboard-Project
+# Power-BI-Project
 Interactive Power BI dashboard for sales performance and product analysis.
 Sales Dashboard | Power BI Project
 

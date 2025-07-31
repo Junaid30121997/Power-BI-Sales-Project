@@ -22,7 +22,7 @@ This Power BI dashboard provides insights into sales performance, product trends
 - Interactive filters and slicers
 
 📁 Files Included
-- `dashboard.png` – Screenshot of the dashboard
+- [`dashboard.png`](https://github.com/Junaid30121997/Dashboard-Project/blob/main/Screenshot%202025-07-17%20155708.png) – Screenshot of the dashboard
 - `sales_query.sql` – Sample SQL used for data retrieval
 - `dashboard.pbix` – Power BI dashboard file (optional)
 - `README.md` – Project summary and instructions

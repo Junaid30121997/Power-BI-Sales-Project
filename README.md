@@ -41,7 +41,7 @@ The goal is to help businesses monitor **KPIs** and make **data-driven decisions
 ---
 
 ##  Files in Repository
-- `Mobile Sales Data.xlsx` – raw dataset used for dashboard   
+- `[Mobile Sales Data.xlsx](https://github.com/Junaid30121997/Power-BI-Sales-Project/blob/main/Mobile%20Sales%20Data.xlsx) – raw dataset used for dashboard   
 - `Screenshots/` – dashboard previews  
 
 ---
